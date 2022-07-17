@@ -1,0 +1,27 @@
+{
+  "name": "create-a-readme",
+  "version": "1.0.0",
+  "description": "Project is used to create a Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjaniBrowne/Create-a-readme.git"
+  },
+  "keywords": [
+    "Readme",
+    "github",
+    "project"
+  ],
+  "author": "Ajani Browne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjaniBrowne/Create-a-readme/issues"
+  },
+  "homepage": "https://github.com/AjaniBrowne/Create-a-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
