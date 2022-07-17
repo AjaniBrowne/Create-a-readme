@@ -73,11 +73,16 @@ inquirer
         message:'Enter email here.',
         name: 'Questions',
     },
+    {
+        type:'input',
+        message:'Add additional information for viewers to reach you with questions ',
+        name: 'questions',
+    },
 
 ]).then((data) => {
     const info = readMe(data);
 
-    fs.writeFile('index.html', generateHtml, (err) =>
+    fs.writeFile('index.html', info, (err) =>
     err ? console.log(err) : console.log('Success!'));
 });
 
