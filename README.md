@@ -1,5 +1,5 @@
 
-# work  
+# This project is used to create a precise readme. I will learn how to use a md file from node. This is the beginning of backend developing.  
 
 ## Table Of Contents
 * [Usage](#usage)
@@ -10,20 +10,20 @@
     
 ## Usage
     
-work
+The purpose of this application is to get exposure to node and how to correctly use it.
 
 ## Installation
 
-hfjdj
+Use npm i inquirier@8.2.4 to begin the steps of installation.
 
 ## License
 
-[![License:PDDL ](https://img.shields.io/badge/License-PDDL-blue.svg)](https://opensource.org/licenses/PDDL)
+[![License:ISC ](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Test
 
-dhdhjdh
+At this moment we do not have any test for this project.
 
 ## Questions
 
-chjfhjfjkf 
+https://github.com/AjaniBrowne 
